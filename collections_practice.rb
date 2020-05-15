@@ -31,7 +31,7 @@ end
  end
   #7
   def find_a(arrays)
-    arrays.start_with? do |
+    arrays.start_with? do 
     
   end
 
