@@ -37,7 +37,12 @@ end
   end
 #8
 def sum_array(arrays)
-  
+  sum = 0
+  arrays.each do |num|
+    sum+=num
+  end
+  sum
+
   
 
 
