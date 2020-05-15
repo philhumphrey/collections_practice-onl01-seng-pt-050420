@@ -32,8 +32,8 @@ end
   #7
   def find_a(arrays)
     arrays.start_with? do |word|
-      
-    
+      word[0] == "a"
+    end
   end
 
 
