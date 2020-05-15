@@ -32,6 +32,7 @@ end
   #7
   def find_a(arrays)
     arrays.start_with? 
+    
   end
 
 
