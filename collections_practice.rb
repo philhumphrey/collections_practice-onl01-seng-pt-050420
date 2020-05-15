@@ -43,7 +43,9 @@ def sum_array(arrays)
   end
   sum
 end
-
+#9
+def add_s(arrays)
+  
   
 
 
