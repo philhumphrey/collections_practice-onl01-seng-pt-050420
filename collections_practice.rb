@@ -31,11 +31,14 @@ end
  end
   #7
   def find_a(arrays)
-    arrays.start_with? do |word|
+    arrays.final_all do |word|
       word[0] == "a"
     end
   end
-
+#8
+def sum_array(arrays)
+  
+  
 
 
 
