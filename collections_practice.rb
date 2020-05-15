@@ -17,5 +17,6 @@ def swap_elements(array)
   second_variable = array [2]
 array [1] = second_variable
 array [2] = first_variable
-end
 array
+end
+
