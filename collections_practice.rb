@@ -20,3 +20,7 @@ array [2] = first_variable
 array
 end
 #5
+def reverse_array(array)
+  array.reverse
+end
+  
