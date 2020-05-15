@@ -29,6 +29,7 @@ def kesha_maker(arrays)
     item[2] = "$"
 end
  end
+  #7
   
 
 
