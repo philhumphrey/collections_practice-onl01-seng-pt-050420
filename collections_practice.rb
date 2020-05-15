@@ -1,1 +1,16 @@
-
+#1
+def sort_array_asc(array)
+  array.sort
+end
+#2
+def sort_array_desc(array)
+ descends = array.sort
+ descends.reverse
+ end
+#3
+def sort_array_char_count(arrays)
+  arrays.sort_by {|puppies| puppies.length}
+end
+#4
+def swap_elements(array)
+  
