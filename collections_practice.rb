@@ -24,8 +24,8 @@ def reverse_array(array)
   array.reverse
 end
 #6
-def kesha_maker(array)
-  array
+def kesha_maker|
+  array.each do 
   array.split (" , ")
   
  end
