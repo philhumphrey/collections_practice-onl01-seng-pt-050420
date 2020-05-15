@@ -27,7 +27,7 @@ end
 def kesha_maker(array)
   L = []
   array.each do |name|
-  
+end
  end
   
 
