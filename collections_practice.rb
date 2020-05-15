@@ -31,7 +31,7 @@ end
  end
   #7
   def find_a(arrays)
-    arrays.final_all do |word|
+    arrays.find_all do |word|
       word[0] == "a"
     end
   end
